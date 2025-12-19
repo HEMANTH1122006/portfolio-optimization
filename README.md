@@ -1,4 +1,4 @@
-# Portfolio Optimization using Modern Portfolio Theory
+# Portfolio Optimization with Backtesting and Monte Carlo Simulation
 
 This project implements portfolio optimization using historical stock market data based on Modern Portfolio Theory (MPT).  
 The objective is to identify optimal asset allocations that balance risk and return, and to evaluate their performance using out-of-sample backtesting and Monte Carlo simulation.
@@ -115,5 +115,6 @@ portfolio-optimization/
 ## Disclaimer
 
 This project is for educational purposes only and does not constitute financial or investment advice.
+
 
 
