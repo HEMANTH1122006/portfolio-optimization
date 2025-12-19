@@ -90,6 +90,16 @@ All dependencies are listed in `requirements.txt`.
 
 ## Project Structure
 
+portfolio-optimization/
+├── optimization.py # Portfolio optimization & Efficient Frontier
+├── backtesting.py # Out-of-sample backtesting
+├── monte_carlo.py # Monte Carlo simulation of portfolio paths
+├── requirements.txt
+├── README.md
+└── plots/
+├── efficient_frontier.png
+├── backtesting_equity_curve.png
+└── monte_carlo_simulation.png
 
 ---
 
@@ -105,3 +115,4 @@ All dependencies are listed in `requirements.txt`.
 ## Disclaimer
 
 This project is for educational purposes only and does not constitute financial or investment advice.
+
